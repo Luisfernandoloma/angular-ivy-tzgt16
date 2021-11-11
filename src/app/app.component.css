@@ -1,0 +1,30 @@
+#menu{
+  background-color: coral;
+  text-align: center;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  color: black;
+}
+
+#head{
+  background-color: coral;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 8px double #00ffff;
+  width: 90%;
+  margin: auto;
+  display: block;
+  color: black;
+}
+
+hr{
+  height: 5px;
+  width: 100%;
+  background: #00ccff;
+}
+
+#pie_pagina{
+  text-align: center;
+}
